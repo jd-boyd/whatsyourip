@@ -15,4 +15,4 @@ To run the wsgiref example:
 
 To run in gunicorn:
 
-    gunicorn -b 0.0.0.0:8000 -w 4 whatsmyip:application
+    gunicorn -b 0.0.0.0:8000 -w 4 whatsyourip:application
